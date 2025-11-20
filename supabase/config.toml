@@ -1,0 +1,7 @@
+project_id = "mtejnvsxevbotvjhkqyu"
+
+[functions.identify-bird-audio]
+verify_jwt = false
+
+[functions.identify-bird-image]
+verify_jwt = false
